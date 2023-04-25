@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Handling incorrect tools equipment"
+    id="id-3bbcac918c0f4f34a850e7053a23803f"
+    documentation="Link to release note: Tools materials are converted from non-serialised to serialised for traceability and quality maintenance purposes&#xD;&#xA;https://vestas.sharepoint.com/sites/PRJ-ToolsManagementProject/Shared%20Documents/Super%20user%20community/Release%20Notes/20221124%20Release%20Note%20in%20T00%20Location%20to%20Warehouse(Return).docx">
+  <properties
+      key="In ServiceNow Architecture Landscape?"
+      value="No"/>
+</archimate:ApplicationService>

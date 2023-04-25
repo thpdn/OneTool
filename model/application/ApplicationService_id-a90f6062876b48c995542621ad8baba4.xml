@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Managing Warranty"
+    id="id-a90f6062876b48c995542621ad8baba4">
+  <properties
+      key="In ServiceNow Architecture Landscape?"
+      value="Yes"/>
+</archimate:ApplicationService>

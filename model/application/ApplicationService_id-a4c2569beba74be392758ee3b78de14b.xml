@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Managing physical inventory"
+    id="id-a4c2569beba74be392758ee3b78de14b">
+  <properties
+      key="In ServiceNow Architecture Landscape?"
+      value="Yes"/>
+</archimate:ApplicationService>

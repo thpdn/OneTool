@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Display DoC(in Vestas Doc App)"
+    id="id-338be8aff90c4c0ea029f53dd3420758">
+  <properties
+      key="In ServiceNow Architecture Landscape?"
+      value="No"/>
+</archimate:ApplicationService>

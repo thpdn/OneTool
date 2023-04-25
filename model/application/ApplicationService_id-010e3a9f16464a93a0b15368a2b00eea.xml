@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tools stock at site (Container, Container items &amp; Additional tools)"
+    id="id-010e3a9f16464a93a0b15368a2b00eea">
+  <properties
+      key="In ServiceNow Architecture Landscape?"
+      value="No"/>
+</archimate:ApplicationService>

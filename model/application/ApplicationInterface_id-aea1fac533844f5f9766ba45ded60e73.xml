@@ -1,0 +1,9 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CIF Interface (SAP APO &lt;-> SAP SD &amp; SAP MM)"
+    id="id-aea1fac533844f5f9766ba45ded60e73"
+    documentation="https://vestasprod.service-now.com/now/nav/ui/classic/params/target/u_interface.do%3Fsys_id%3D0f74356537a82e0005d41a7943990ea9">
+  <properties
+      key="In ServiceNow Architecture Landscape?"
+      value="Yes"/>
+</archimate:ApplicationInterface>

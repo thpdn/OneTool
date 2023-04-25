@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Scanning Documents and link to Equipment"
+    id="id-04986b1783fb444bb463aeb2fab95092">
+  <properties
+      key="In ServiceNow Architecture Landscape?"
+      value="No"/>
+</archimate:ApplicationService>

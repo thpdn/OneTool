@@ -1,0 +1,8 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Warehouse Hero"
+    id="id-55b53f547d0f4dfdaf6934464f50eb8b">
+  <properties
+      key="In ServiceNow Architecture Landscape?"
+      value="Yes"/>
+</archimate:ApplicationFunction>

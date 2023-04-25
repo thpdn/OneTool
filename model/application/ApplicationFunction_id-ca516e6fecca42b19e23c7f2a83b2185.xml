@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAP Project System (PS)"
+    id="id-ca516e6fecca42b19e23c7f2a83b2185"
+    documentation="https://vestasprod.service-now.com/u_application_function.do?sys_id=db74356537a82e0005d41a7943990eab">
+  <properties
+      key="In ServiceNow Architecture Landscape?"
+      value="Yes"/>
+</archimate:ApplicationFunction>

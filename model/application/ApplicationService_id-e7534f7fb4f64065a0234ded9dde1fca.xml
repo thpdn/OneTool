@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Scheduling Resources (Primavera P6)"
+    id="id-e7534f7fb4f64065a0234ded9dde1fca"
+    documentation="Add resources to activities, create regional or global resource plan and balance out resources.&#xD;&#xA;&#xD;&#xA;https://vestasprod.service-now.com/u_application_service.do?sys_id=3419bff6dbedc41086482dcb0b96195b">
+  <properties
+      key="In ServiceNow Architecture Landscape?"
+      value="Yes"/>
+</archimate:ApplicationService>

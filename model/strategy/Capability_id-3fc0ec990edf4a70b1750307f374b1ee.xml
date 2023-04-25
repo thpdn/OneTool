@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create Purchase Order (no interface)"
+    id="id-3fc0ec990edf4a70b1750307f374b1ee"
+    documentation="Schenker creates a purchase order”. The vendor is selected based on information from VCEU."/>

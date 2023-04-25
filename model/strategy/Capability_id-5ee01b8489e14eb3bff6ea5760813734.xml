@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rental Prices &amp; Transfer prices"
+    id="id-5ee01b8489e14eb3bff6ea5760813734"
+    documentation="The rental price is based on the actual purchase cost of the tools, typically an average of the most recent purchase orders. It is a master data which is far as I know is sourcing’s responsibility to maintain, however the Videbæk tools team has for some time supported, as it was in our interest to have complete list of accurate rental prices.&#xD;&#xA;&#xD;&#xA;Formulate: (((Purchasing Price Item/Expected Liftetime)+Yearly Operation Cost per item)/(365 days* Utilization rate)) - 30%&#xD;&#xA;&#xD;&#xA;Tools daily rate are uploaded yearly"/>

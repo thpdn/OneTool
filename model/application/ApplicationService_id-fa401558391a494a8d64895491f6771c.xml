@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Certificate Upload"
+    id="id-fa401558391a494a8d64895491f6771c"
+    documentation="Link to original functionality&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Link to release note: (handle Incorrect format of email sent to Bot Mailbox is failed to upload Certificates)&#xD;&#xA;https://vestas.sharepoint.com/sites/PRJ-ToolsManagementProject/Shared%20Documents/Super%20user%20community/Release%20Notes/20221208%20Release%20Note%20in%20T00%20Operational%20Quality(Calibration).docx">
+  <properties
+      key="In ServiceNow Architecture Landscape?"
+      value="No"/>
+</archimate:ApplicationService>

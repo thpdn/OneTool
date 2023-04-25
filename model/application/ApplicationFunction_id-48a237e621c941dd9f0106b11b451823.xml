@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAP PP"
+    id="id-48a237e621c941dd9f0106b11b451823"
+    documentation="https://vestasprod.service-now.com/u_application_function.do?sys_id=4b74356537a82e0005d41a7943990eab">
+  <properties
+      key="In ServiceNow Architecture Landscape?"
+      value="Yes"/>
+</archimate:ApplicationFunction>

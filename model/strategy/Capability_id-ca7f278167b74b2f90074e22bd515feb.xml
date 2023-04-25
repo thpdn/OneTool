@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pick, Pack, Ship (no interface)"
+    id="id-ca7f278167b74b2f90074e22bd515feb"
+    documentation="Schenker perform pick, pack and ship from the storage location Calibration. The goods issue is NOT ​interfaced to Vestas."/>

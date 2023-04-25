@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evaluation of MRP Exception (SAP PP)"
+    id="id-41b30da40e4045f5a8c83222f141e039"
+    documentation="https://vestasprod.service-now.com/u_application_service.do?sys_id=1ebb0fe31b3bf3400dc2ed7cee4bcbcd">
+  <properties
+      key="In ServiceNow Architecture Landscape?"
+      value="Yes"/>
+</archimate:ApplicationService>

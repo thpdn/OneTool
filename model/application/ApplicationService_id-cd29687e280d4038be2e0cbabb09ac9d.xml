@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Managing stock transfer orders - STO (SAP MM)"
+    id="id-cd29687e280d4038be2e0cbabb09ac9d"
+    documentation="https://vestasprod.service-now.com/now/nav/ui/classic/params/target/u_application_service.do%3Fsys_id%3D43402f3ddbc88c1086482dcb0b961944&#xD;&#xA;&#xD;&#xA;Link to Release note 1: On UB STO and account assignment (Account assignment not needed)&#xD;&#xA;https://vestas.sharepoint.com/sites/PRJ-ToolsManagementProject/Shared%20Documents/Super%20user%20community/Release%20Notes/20230210%20Release%20Note%20in%20Procurement-Account%20Assignment%20For%20UB%20PO.docx">
+  <properties
+      key="In ServiceNow Architecture Landscape?"
+      value="Yes"/>
+</archimate:ApplicationService>

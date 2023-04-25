@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Preventive Maintenance"
+    id="id-0ea302b89219491b8e830944c2558f99">
+  <properties
+      key="Covered by SAP"
+      value="No"/>
+  <properties
+      key="Covered by EAM"
+      value="?"/>
+</archimate:Capability>

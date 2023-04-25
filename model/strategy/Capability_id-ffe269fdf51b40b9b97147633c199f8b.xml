@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Goods receipt (no interface)"
+    id="id-ffe269fdf51b40b9b97147633c199f8b"
+    documentation="Schenker receives the tool into the storage location Calibration (1002). The normal inbound process will ​take place. Schenker posts good receipt and the goods receipt is NOT interfaced ​to Vestas. "/>

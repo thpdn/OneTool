@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asset depreciation"
+    id="id-8719f54c61fe47738bc2699b5b55bc41"
+    documentation="OneTool IT Track T06.7 Asset Based Procurement (on hold)">
+  <properties
+      key="In ServiceNow Architecture Landscape?"
+      value="No"/>
+</archimate:ApplicationService>

@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Intelligence (SAP BI)"
+    id="id-1dc09e93212e4d58a11e3d5c30d1e949"
+    documentation="https://vestasprod.service-now.com/now/nav/ui/classic/params/target/u_application_function.do%3Fsys_id%3D690dbee237971e0005d41a7943990e79">
+  <properties
+      key="In ServiceNow Architecture Landscape?"
+      value="Yes"/>
+</archimate:ApplicationFunction>

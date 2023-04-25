@@ -1,0 +1,9 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tools SAP EPC* Interface P6-> SAP PS)"
+    id="id-d6304197b2f741f9b7a0fca903c5bfd1"
+    documentation="https://vestasprod.service-now.com/u_interface.do?sys_id=ad1c02dedb17c81086482dcb0b961975&#xD;&#xA;&#xD;&#xA;Link to Release Note 1:&#xD;&#xA;https://vestas.sharepoint.com/sites/PRJ-ToolsManagementProject/Shared%20Documents/Super%20user%20community/Release%20Notes/20221031%20Release%20Note%20in%20T00%20Operational%20Planning.docx&#xD;&#xA;A few improvements introduced for Project Demand (YPP_PROJECT_DEMAND) / CON Balance Report (YPP_CON_BALANCE) &#xD;&#xA;- Planned Onsite/Offsite Dates from Primavera* in CON Balance Report &#xD;&#xA;- Analysis of missing containers due to master data in CON Balance Report &#xD;&#xA;- User specific layout input at selection  &#xD;&#xA;- List each tool/container by forward follow by return  &#xD;&#xA;&#xD;&#xA;Link to Release Note 2:&#xD;&#xA;https://vestas.sharepoint.com/:w:/r/sites/PRJ-ToolsManagementProject/Shared%20Documents/Super%20user%20community/Release%20Notes/20230327%20Release%20Note%20in%20T00%20Operational%20Planning.docx?d=w3e70ef24df41497fad1756de876719df&amp;csf=1&amp;web=1&amp;e=HjchY8&#xD;&#xA;There are two parts to this release note &#xD;&#xA;- Missing container item in Project  &#xD;&#xA;- Revise Error list in YPP_CON_BALANCE ">
+  <properties
+      key="In ServiceNow Architecture Landscape?"
+      value="Yes"/>
+</archimate:ApplicationInterface>

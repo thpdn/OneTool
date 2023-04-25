@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Managing Material Master (Planning Parameters) (SAP PP)"
+    id="id-170ae0953fc74175b7ca133da0e295fa"
+    documentation="https://vestasprod.service-now.com/now/nav/ui/classic/params/target/u_application_service.do%3Fsys_id%3D58ed03a71b3bf3400dc2ed7cee4bcb21%26sysparm_record_target%3Du_application_service%26sysparm_record_row%3D12%26sysparm_record_rows%3D24%26sysparm_record_list%3Du_lifecycle_status%2521%253Ddecommissioned%255EnameCONTAINSmaster%255EORDERBYname">
+  <properties
+      key="In ServiceNow Architecture Landscape?"
+      value="Yes"/>
+</archimate:ApplicationService>

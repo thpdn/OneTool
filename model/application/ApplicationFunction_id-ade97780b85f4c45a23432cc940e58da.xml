@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oracle P6"
+    id="id-ade97780b85f4c45a23432cc940e58da"
+    documentation="https://vestasprod.service-now.com/u_application_function.do?sys_id=ec41c0ef37075a00088e12c543990e06">
+  <properties
+      key="In ServiceNow Architecture Landscape?"
+      value="Yes"/>
+</archimate:ApplicationFunction>

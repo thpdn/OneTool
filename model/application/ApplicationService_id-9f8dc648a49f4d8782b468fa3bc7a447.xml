@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Managing Orders (Memnon TMS)"
+    id="id-9f8dc648a49f4d8782b468fa3bc7a447"
+    documentation="Link:&#xD;&#xA;https://vestasprod.service-now.com/now/nav/ui/classic/params/target/u_application_service.do%3Fsys_id%3D58c3e8c71be95c502d59520e6e4bcb9f%26sysparm_record_target%3Du_application_service%26sysparm_record_row%3D1%26sysparm_record_rows%3D2%26sysparm_record_list%3Du_lifecycle_status%2521%253Ddecommissioned%255EnameCONTAINSMemnon%255EORDERBYname">
+  <properties
+      key="In ServiceNow Architecture Landscape?"
+      value="Yes"/>
+</archimate:ApplicationService>

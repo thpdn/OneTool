@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Adding Container Shortage added to PB"
+    id="id-fdd69e57d3594357ba7eafeba2415b4a"
+    documentation="Link to release&#xD;&#xA;https://vestas.sharepoint.com/sites/PRJ-ToolsManagementProject/Shared%20Documents/Super%20user%20community/Release%20Notes/20221121%20Release%20Note%20in%20T00%20Warehouse%20to%20location(Forward)%202.docx">
+  <properties
+      key="In ServiceNow Architecture Landscape?"
+      value="No"/>
+</archimate:ApplicationService>

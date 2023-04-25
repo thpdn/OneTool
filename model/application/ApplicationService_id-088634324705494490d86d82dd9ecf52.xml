@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Calibration"
+    id="id-088634324705494490d86d82dd9ecf52"
+    documentation="TC61.34 Internal calibration ( onsite warehouse )&#xD;&#xA;https://vestas.sharepoint.com/:p:/r/sites/PRJ-ToolsManagementProject/Shared%20Documents/TS%20Training%20and%20Test%20of%20Solution/WP2%20Asia%20Pacific%20(Not%20Beijing)/Training%20Material/TC61%20-%20Calibration/TC61.34%20Internal%20calibration%20(%20onsite%20warehouse%20).pptx?d=w86808e32451f4f7797fd7ef637917018&amp;csf=1&amp;web=1&amp;e=50JVla&#xD;&#xA;&#xD;&#xA;External see&#xD;&#xA; External Operational Quality (Calibration or Repair)">
+  <properties
+      key="In ServiceNow Architecture Landscape?"
+      value="No"/>
+</archimate:ApplicationService>

@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Check Calibration/Inspection Notification"
+    id="id-4859ee908d3a49bfb37243e60176ab3a"
+    documentation="Link to Training Material (calibration)&#xD;&#xA;https://vestas.sharepoint.com/:p:/r/sites/PRJ-ToolsManagementProject/Shared%20Documents/TS%20Training%20and%20Test%20of%20Solution/WP2%20Asia%20Pacific%20(Not%20Beijing)/Training%20Material/TC61%20-%20Calibration/TC61.17%20check%20calibration%20notification.pptx?d=wf17fb50f77fe43b28e80de4676aa849d&amp;csf=1&amp;web=1&amp;e=KDAWrF&#xD;&#xA;&#xD;&#xA;Link to Training Material (Inspection)&#xD;&#xA;https://vestas.sharepoint.com/:p:/r/sites/PRJ-ToolsManagementProject/Shared%20Documents/TS%20Training%20and%20Test%20of%20Solution/WP2%20Asia%20Pacific%20(Not%20Beijing)/Training%20Material/TC62%20-%20Conduct%20inspection/TC62.02%20Check%20Inspection%20Notification.pptx?d=wa167fc39c987414f9a025ce47fe67dc0&amp;csf=1&amp;web=1&amp;e=6l9BdX">
+  <properties
+      key="In ServiceNow Architecture Landscape?"
+      value="No"/>
+</archimate:ApplicationService>

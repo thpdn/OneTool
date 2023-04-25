@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Running MRP (SAP PP)"
+    id="id-3e965b3bbd8f4496ae50e55ee1b58161"
+    documentation="https://vestasprod.service-now.com/u_application_service.do?sys_id=9a2c974a1bafb3000dc2ed7cee4bcb93&#xD;&#xA;&#xD;&#xA;Solution Design for MRP; &#xD;&#xA;https://vestas.sharepoint.com/:p:/r/sites/PRJ-ToolsManagementProject/Shared%20Documents/SD%20Solution%20Design/SD_MRP_Documentation/SD_MRP%20Presentation.pptx?d=w1bd8429940f64370982960223aba8a34&amp;csf=1&amp;web=1&amp;e=zq1tuP">
+  <properties
+      key="In ServiceNow Architecture Landscape?"
+      value="Yes"/>
+</archimate:ApplicationService>

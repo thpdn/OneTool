@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="P6 Container Demand Report "
+    id="id-c6c03076f8a840308000b6b88e848bc3"
+    documentation="http://sappbw.vestas.net/irj/servlet/prt/portal/prtroot/pcd!3aportal_content!2fcom.sap.pct!2fplatform_add_ons!2fcom.sap.ip.bi!2fiViews!2fcom.sap.ip.bi.bex?QUERY=PR_CP03_Q300_G&amp;VARIABLE_SCREEN=X&amp;DUMMY=2">
+  <properties
+      key="In ServiceNow Architecture Landscape?"
+      value="No"/>
+</archimate:ApplicationService>

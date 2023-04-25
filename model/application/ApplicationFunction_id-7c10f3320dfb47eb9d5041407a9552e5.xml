@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Logistics Execution (SAP LE)"
+    id="id-7c10f3320dfb47eb9d5041407a9552e5"
+    documentation="Link:&#xD;&#xA;https://vestasprod.service-now.com/now/nav/ui/classic/params/target/u_application_function.do%3Fsys_id%3D0b74356537a82e0005d41a7943990eab">
+  <properties
+      key="In ServiceNow Architecture Landscape?"
+      value="Yes"/>
+</archimate:ApplicationFunction>

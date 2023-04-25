@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stock Count (Container); DB Schenker SAP --> Vestas SAP"
+    id="id-d89a5f2c01a14e7ea1ce8a6d60b1119a"
+    documentation="Schenker is posting goods receipt. This information is interfaced to Vestas using the IDoc MBGMCR02&#xD;&#xA;--> Schenker makes a stock count on the container “Storage location” 7###. The difference list is sent to Vestas​ Services GmbH.  Vestas Services GmbH approves the list and informs Schenker to post the changes.​&#xD;&#xA;--> The material document created by this posting is interfaced to Vestas by the same interface as sends ​other stock counts. &#xD;&#xA;&#xD;&#xA;Link to Documentation;&#xD;&#xA;https://vestas.sharepoint.com/:p:/r/sites/OneTool-T153PLrollout/Shared%20Documents/T15%203PL%20rollout/00%20Requirements%20and%20Process/Vestas%20-%20DB%20Schenker%20Interface.pptx?d=w8ae74256aee84e64a3c4764fa3b4d8bb&amp;csf=1&amp;web=1&amp;e=PhplWf"/>

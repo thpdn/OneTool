@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GR Interface; DB Schenker SAP --> Vestas SAP"
+    id="id-5f83f6c5b6be4ad4abd788fed6a63cf1"
+    documentation="Schenker is posting goods receipt. This information is interfaced to Vestas using the IDoc MBGMCR02&#xD;&#xA;--> During the GR confirmation all serial No. relevant items should be consolidated by Schenker: Schenker activated    Batch Management for the SN relevant items (1SN = 1 Batch-No.).  Because of batch split on Schenker side the consolidation is   necessary.&#xD;&#xA;--> In cases where received quantity is less than ordered Vestas can set the “complete delivery flag” if no more goods   are expected. This change is also sent to Schenker.&#xD;&#xA;&#xD;&#xA;Link to Documentation;&#xD;&#xA;https://vestas.sharepoint.com/:p:/r/sites/OneTool-T153PLrollout/Shared%20Documents/T15%203PL%20rollout/00%20Requirements%20and%20Process/Vestas%20-%20DB%20Schenker%20Interface.pptx?d=w8ae74256aee84e64a3c4764fa3b4d8bb&amp;csf=1&amp;web=1&amp;e=PhplWf"/>

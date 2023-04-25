@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Upload additional tools to PB  for Installation/Commissionin)"
+    id="id-04bb2c6d77614ff18050e40424c0c9bd">
+  <properties
+      key="In ServiceNow Architecture Landscape?"
+      value="No"/>
+</archimate:ApplicationService>

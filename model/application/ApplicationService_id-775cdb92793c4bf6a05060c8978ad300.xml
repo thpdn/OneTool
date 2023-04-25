@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Setup Storage Type, Unit, Section, Bins"
+    id="id-775cdb92793c4bf6a05060c8978ad300"
+    documentation="Link to HOTS&#xD;&#xA;https://vestas.sharepoint.com/:p:/r/sites/PRJ-ToolsManagementProject/Shared%20Documents/LG%20Warehouse%20Operations/HOTS_TMP_WP1_Warehouse%20Foundation%20(3).pptx?d=w2b555b435e964e56acf1d1abc7ab5c48&amp;csf=1&amp;web=1&amp;e=KVLmaz">
+  <properties
+      key="In ServiceNow Architecture Landscape?"
+      value="No"/>
+</archimate:ApplicationService>

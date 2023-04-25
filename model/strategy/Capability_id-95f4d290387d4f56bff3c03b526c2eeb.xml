@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="move item back to main location"
+    id="id-95f4d290387d4f56bff3c03b526c2eeb"
+    documentation="After posting goods receipt Schenker creates a stock movement using movement type 311 from the ​storage location Calibration (1002) into the storage location Main (1000). This stock movement is interfaced​ from Schenker to Vestas using the IDoc MBGMCR02. "/>

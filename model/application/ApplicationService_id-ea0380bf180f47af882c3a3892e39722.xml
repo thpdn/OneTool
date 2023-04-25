@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Handling Production Orders (SAP PP)"
+    id="id-ea0380bf180f47af882c3a3892e39722"
+    documentation="https://vestasprod.service-now.com/u_application_service.do?sys_id=0725b3c61b63f3000dc2ed7cee4bcbc3">
+  <properties
+      key="In ServiceNow Architecture Landscape?"
+      value="Yes"/>
+</archimate:ApplicationService>

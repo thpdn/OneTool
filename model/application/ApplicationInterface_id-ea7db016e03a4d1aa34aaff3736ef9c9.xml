@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PO Interface; Vestas SAP --> DB Schenker SAP"
+    id="id-ea7db016e03a4d1aa34aaff3736ef9c9"
+    documentation="The purchase order is sent to the vendor and to Schenker using the IDoc ORDERS05. In case of changes to the purchase    order these are also sent to Schenker using the IDoc ORDERS05&#xD;&#xA;&#xD;&#xA;Link to Documentation;&#xD;&#xA;https://vestas.sharepoint.com/:p:/r/sites/OneTool-T153PLrollout/Shared%20Documents/T15%203PL%20rollout/00%20Requirements%20and%20Process/Vestas%20-%20DB%20Schenker%20Interface.pptx?d=w8ae74256aee84e64a3c4764fa3b4d8bb&amp;csf=1&amp;web=1&amp;e=PhplWf"/>

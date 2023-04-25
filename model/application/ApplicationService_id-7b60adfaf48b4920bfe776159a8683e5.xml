@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Working with material across value chain (Warehouse Hero)"
+    id="id-7b60adfaf48b4920bfe776159a8683e5"
+    documentation="https://vestasprod.service-now.com/now/nav/ui/classic/params/target/u_application_service.do%3Fsys_id%3D7badc3481b71015009544002cd4bcb97">
+  <properties
+      key="In ServiceNow Architecture Landscape?"
+      value="Yes"/>
+</archimate:ApplicationService>

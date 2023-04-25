@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Assign Lost Storage Location (SLOC) to Project"
+    id="id-afda6ef38c9a42268496400c15a1b4c8"
+    documentation=" for Installation/Commissionin)">
+  <properties
+      key="In ServiceNow Architecture Landscape?"
+      value="No"/>
+</archimate:ApplicationFunction>

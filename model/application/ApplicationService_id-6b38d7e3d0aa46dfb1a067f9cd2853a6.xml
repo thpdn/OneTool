@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DoC Upload"
+    id="id-6b38d7e3d0aa46dfb1a067f9cd2853a6"
+    documentation="Link to release note:&#xD;&#xA;https://vestas.sharepoint.com/sites/PRJ-ToolsManagementProject/Shared%20Documents/Super%20user%20community/Release%20Notes/20230123%20Release%20Note%20in%20T00%20Operational%20Quality(Calibration).docx">
+  <properties
+      key="In ServiceNow Architecture Landscape?"
+      value="No"/>
+</archimate:ApplicationService>

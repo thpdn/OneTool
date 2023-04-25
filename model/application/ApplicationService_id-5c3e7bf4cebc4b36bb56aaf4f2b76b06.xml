@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fiori Solution for 'easing Subcontracting Flow' (PurReq &amp; PO creation) "
+    id="id-5c3e7bf4cebc4b36bb56aaf4f2b76b06"
+    documentation="Link to recording of demo here:&#xD;&#xA;https://vestas-my.sharepoint.com/:v:/p/bryaa/ESeyoA8tqzFKmCy5rZVHo3kBnjTXH1bS3y5a7Uln2tgtJw&#xD;&#xA;&#xD;&#xA;Link to Fiori&#xD;&#xA;https://eur01.safelinks.protection.outlook.com/?url=https:%2f%2fseflp-ae2f932ee.dispatcher.hana.ondemand.com%2fmainapp%2fClientBin%2fsites%2fvflp%23Shell-home&amp;data=05%7c01%7cTHPDN%40vestas.com%7c975887d3914b4c83e9bc08dab0d13c68%7cc07019407b3f4116a59f159078bc3c63%7c0%7c0%7c638016709942311606%7cUnknown%7cTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7c3000%7c%7c%7c&amp;sdata=2hBKFIQ71EvbqT1cEh3MhGWGAxCSSGUH9%2fEn%2Bm1VflA%3D&amp;reserved=0">
+  <properties
+      key="In ServiceNow Architecture Landscape?"
+      value="No"/>
+</archimate:ApplicationService>

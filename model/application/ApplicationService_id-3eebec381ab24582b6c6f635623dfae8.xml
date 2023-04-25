@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Convert Tool PRs into PO's in CJ20N (SAP PS)"
+    id="id-3eebec381ab24582b6c6f635623dfae8"
+    documentation="https://vestasprod.service-now.com/now/nav/ui/classic/params/target/u_application_service.do%3Fsys_id%3D43402f3ddbc88c1086482dcb0b961944"/>

@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Maintain Maintenance Cycles"
+    id="id-3e0014e13de34f0e946c4107f1530ba0"
+    documentation="Calibration&#xD;&#xA;Calibration Process is designed to track calibration due date for tools equipment using Maintenance Plans&#xD;&#xA;Notifications are triggered from maintenance plans which signifies that a tool is due for Calibration&#xD;&#xA;&#xD;&#xA;Inspection&#xD;&#xA;For Inspection process the next inspection due date is tracked from maintenance plans&#xD;&#xA;Standard Notification report is used to track tools due for inspection&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Link to Training Material (calibration)&#xD;&#xA;https://vestas.sharepoint.com/:p:/r/sites/PRJ-ToolsManagementProject/Shared%20Documents/TS%20Training%20and%20Test%20of%20Solution/WP2%20Asia%20Pacific%20(Not%20Beijing)/Training%20Material/TC61%20-%20Calibration/TC61.01%20Maintain%20Calibration%20Cycles.pptx?d=w09ebc08c3fd24e4997e8d0a7868ecf4b&amp;csf=1&amp;web=1&amp;e=xobYD4&#xD;&#xA;&#xD;&#xA;Link to Training Material (inspection)&#xD;&#xA;https://vestas.sharepoint.com/:p:/r/sites/PRJ-ToolsManagementProject/Shared%20Documents/TS%20Training%20and%20Test%20of%20Solution/WP2%20Asia%20Pacific%20(Not%20Beijing)/Training%20Material/TC62%20-%20Conduct%20inspection/TC62.01%20Maintain%20Inspection%20Cycles.pptx?d=w8bcb74207fd24d54b03553eb9b999017&amp;csf=1&amp;web=1&amp;e=cpHo7l&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="In ServiceNow Architecture Landscape?"
+      value="No"/>
+</archimate:ApplicationService>

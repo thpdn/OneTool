@@ -1,0 +1,7 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Maintenance Strategies"
+    id="id-81ddd969cbf5452e8e21c282fb884474"
+    documentation="Unlike other Tools Warehouses in Esbjerg Tools Warehouse Tools have both Calibration and multiple Inspection cycles running simultaneously. For this deviation in Esbjerg Tools Warehouse, the existing Calibration process is modified to accommodate requirements of Esbjerg tools Warehouse.&#xD;&#xA;&#xD;&#xA;Link to release note&#xD;&#xA;https://vestas.sharepoint.com/:w:/r/sites/PRJ-ToolsManagementProject/Shared%20Documents/Super%20user%20community/Release%20Notes/20230327%20Release%20Note%20in%20T00%20Operational%20Quality(Calibration)%20(1).docx?d=w24c332e197e64d5a84f7d0327d40e64b&amp;csf=1&amp;web=1&amp;e=SKwP2D&#xD;&#xA;&#xD;&#xA;We already now know, that we have to delivery a version 2.0: ADO feature 460931 T01 Work package 4 - Maintenance Execution I Support MPs with Maintenance strategy V2.0">
+  <properties/>
+</archimate:Capability>

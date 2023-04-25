@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Convert Tool PRs into PO's in YPS_TOOL_MAINT (SAP PS)"
+    id="id-9a71b6f811db44c9bad2a81515383e48"
+    documentation="https://vestasprod.service-now.com/u_application_service.do?sys_id=f81560fe1b901c502d59520e6e4bcbdc">
+  <properties
+      key="In ServiceNow Architecture Landscape?"
+      value="No"/>
+</archimate:ApplicationService>

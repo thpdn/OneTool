@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Maintaining rental prices / costs in CJ20N (SAP PS)"
+    id="id-9046d53f1ea8463281bc6ba8bc52499b"
+    documentation="https://vestasprod.service-now.com/now/nav/ui/classic/params/target/u_application_service.do%3Fsys_id%3D3c34a8be1b901c502d59520e6e4bcb47%26sysparm_record_target%3Du_application_service%26sysparm_record_row%3D19%26sysparm_record_rows%3D30%26sysparm_record_list%3Du_lifecycle_status%2521%253Ddecommissioned%255Eu_offering.u_offeringSTARTSWITHGIT%3A%2BConstruction%255Esupport_group.nameSTARTSWITHSAP%2BPS%255EORDERBYu_child_ci">
+  <properties
+      key="In ServiceNow Architecture Landscape?"
+      value="Yes"/>
+</archimate:ApplicationService>

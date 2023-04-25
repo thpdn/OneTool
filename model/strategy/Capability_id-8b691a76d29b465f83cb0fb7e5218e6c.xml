@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Calibration date update"
+    id="id-8b691a76d29b465f83cb0fb7e5218e6c"
+    documentation="During the normal goods receipt check Schenker updates the calibration date in Schenker SAP"/>

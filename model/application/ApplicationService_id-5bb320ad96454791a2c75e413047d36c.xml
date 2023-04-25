@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Housekeeping P6 to PB Container interface for Installation/Commission"
+    id="id-5bb320ad96454791a2c75e413047d36c">
+  <properties
+      key="In ServiceNow Architecture Landscape?"
+      value="No"/>
+</archimate:ApplicationService>

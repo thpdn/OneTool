@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evaluation of Capacity (CM07) (SAP PP)"
+    id="id-ff05114bf3104cd0b39fc29d9eb7106a"
+    documentation="https://vestasprod.service-now.com/now/nav/ui/classic/params/target/u_application_service.do%3Fsys_id%3Dca4cc7271b3bf3400dc2ed7cee4bcb0b">
+  <properties
+      key="In ServiceNow Architecture Landscape?"
+      value="Yes"/>
+</archimate:ApplicationService>

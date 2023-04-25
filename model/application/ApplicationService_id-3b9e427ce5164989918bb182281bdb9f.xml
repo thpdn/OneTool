@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Searching and displaying technical documentation (VestasDoc Mobile)"
+    id="id-3b9e427ce5164989918bb182281bdb9f"
+    documentation="https://vestasprod.service-now.com/now/nav/ui/classic/params/target/u_application_service.do%3Fsys_id%3De58fe6381b32e010228ea9b3b24bcb9e">
+  <properties
+      key="In ServiceNow Architecture Landscape?"
+      value="Yes"/>
+</archimate:ApplicationService>
