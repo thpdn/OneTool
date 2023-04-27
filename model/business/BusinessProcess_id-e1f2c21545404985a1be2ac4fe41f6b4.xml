@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Operational Planning"
     id="id-e1f2c21545404985a1be2ac4fe41f6b4"
-    documentation="https://vestasprocessportal.vestas.net/#default/item/c.chain.Published.7WJhUpYVEexm7ABQVoH2lQ.-1/~AbBbIm1vZGVsVmlld2VyUmVwb3J0cyJd"/>
+    documentation="https://vestasprocessportal.vestas.net/#default/item/c.chain.Published.7WJhUpYVEexm7ABQVoH2lQ.-1/~AbBbIm1vZGVsVmlld2VyUmVwb3J0cyJd">
+  <properties
+      key="Level of Customization"
+      value="5"/>
+</archimate:BusinessProcess>
